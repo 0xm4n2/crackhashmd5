@@ -26,6 +26,7 @@ Avant d'exécuter le programme, assurez-vous d'avoir les outils suivants install
 3. Exécution des 2 fichiers:
    
     ./serveur IP_SERVEUR PORT HASH_LIST
+   
     ./client IP_SERVEUR PORT MDP_LIST
 
 ## Auteurs
