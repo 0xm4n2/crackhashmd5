@@ -28,6 +28,7 @@ Avant d'exécuter le programme, assurez-vous d'avoir les outils suivants install
     ./serveur IP_SERVEUR PORT HASH_LIST
     ./client IP_SERVEUR PORT MDP_LIST
 
+## Auteurs
 
 Manu Van Hoofstdt
 Chong-Wen Wang
