@@ -17,8 +17,8 @@ Avant d'exécuter le programme, assurez-vous d'avoir les outils suivants install
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/Hashbreaker.git
-   cd Hashbreaker
+   git clone https://github.com/Zerodays-0/crackhashmd5.git
+   cd crackhashmd5
 
 2. Compilé :
     make all
