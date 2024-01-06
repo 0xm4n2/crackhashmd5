@@ -6,9 +6,9 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
-#include "./../Libraries/Client/process.h"
-#include "./../Libraries/Client/heap.h"
-#include "./../Libraries/Client/bruteforce.h"
+#include "./Libraries/Client/process.h"
+#include "./Libraries/Client/heap.h"
+#include "./Libraries/Client/bruteforce.h"
 
 
 
