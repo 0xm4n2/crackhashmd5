@@ -6,8 +6,8 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
-#include "./../Libraries/Server/stack.h"
-#include "./../Libraries/Server/process.h"
+#include "./Libraries/Server/stack.h"
+#include "./Libraries/Server/process.h"
 
 
 int main(int argc, char **argv) {
