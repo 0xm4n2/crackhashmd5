@@ -1,5 +1,8 @@
 # crackhashmd5
-
+<img src="https://img.shields.io/github/languages/top/0xb4b0u/hashbreaker?style&color=5D6D7E" alt="GitHub top language" />
+<img src="https://img.shields.io/github/languages/code-size/0xb4b0u/hashbreaker?style&color=5D6D7E" alt="GitHub code size in bytes" />
+<img src="https://img.shields.io/github/commit-activity/m/0xb4b0u/hashbreaker?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/license/0xb4b0u/hashbreaker?style&color=5D6D7E" alt="GitHub license" />
 
 ## Objectif du Projet
 
