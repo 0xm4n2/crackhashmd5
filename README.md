@@ -31,6 +31,6 @@ Avant d'exécuter le programme, assurez-vous d'avoir les outils suivants install
 
 ## Auteurs
 
-* **Manu Van Hoofstdt - [Zerodays-0](https://github.com/Zerodays-0)
-* **Chong-Wen Wang - [Chong-wen](https://github.com/Chong-wen)
-Contribueurs au projet [contributeurs](https://github.com/Zerodays-0/crackhashmd5/graphs/contributors)
+* Manu Van Hoofstdt - [Zerodays-0](https://github.com/Zerodays-0)
+* Chong-Wen Wang - [Chong-wen](https://github.com/Chong-wen)
+* Contribueurs au projet [contributeurs](https://github.com/Zerodays-0/crackhashmd5/graphs/contributors)
