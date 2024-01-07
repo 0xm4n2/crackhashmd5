@@ -49,8 +49,12 @@ int main(int argc, char **argv) {
         .sin_port        = htons(atoi(argv[2])),
     };
 
-    if (connect(clientfd, (struct sockaddr*)&server_addr, sizeof(server_addr)) < 0)
-        return fprintf(stderr, "connect(): %s\n", strerror(errno));
+    if (connect(clientfd, (struct sockaddr*)&server_addr, sizeof(server_addr)) < 0){
+        for (int i = 0; passwords[i]; i++) {
+        free(passwords[i]);
+        }
+        free(passwords);
+        return fprintf(stderr, "connect(): %s\n", strerror(errno));}
 
     printf("connected to %s:%d\n", argv[1], atoi(argv[2]));
     handle(clientfd, passwords);
